@@ -1,1 +1,1 @@
-Scrits for firmware version 1.0.12
+Autoexec scripts for firmware version 1.0.12
