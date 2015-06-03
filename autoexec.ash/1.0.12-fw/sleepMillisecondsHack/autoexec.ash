@@ -1,7 +1,7 @@
 sleep 1
 
 #convert sleep to milliseconds hack
-writeb 0xC0155712 0x0000
+writew 0xC0155712 0x0000
 
 #beep and blink front LED
 #LEDs
